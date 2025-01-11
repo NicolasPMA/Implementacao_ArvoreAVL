@@ -25,25 +25,25 @@
  - O usuário deve fornecer um arquivo contendo uma árvore AVL.
  - "arvoreavl.txt"
 
- 3. Imprimir a árvore (opcoes: pré-ordem; em-ordem; pás-ordem; e em largura)
+ 2. Imprimir a árvore (opcoes: pré-ordem; em-ordem; pás-ordem; e em largura)
  - O usuário deve escolher o número respectivo ao modo de impressão desejado.
  
- 4. Verificar se um elemento x existe na árvore
+ 3. Verificar se um elemento x existe na árvore
  - O usuário deve fornecer o valor do elemento para verificação.
  
- 5. Imprimir o nível de um no x
+ 4. Imprimir o nível de um no x
  - O usuário deve fornecer o valor correspondente ao nível desejado para impressão.
    
- 6. Imprimir as folhas menores que um valor x
+ 5. Imprimir as folhas menores que um valor x
  - O usuário deve fornecer um valor e será impresso todas as folhas com valores menores do que o fornecido pelo usuário.
     
- 7. Inserir um no x na árvore
+ 6. Inserir um no x na árvore
  - O usuário deve fornecer um valor para ser inserido na árvore.
     
- 8. Remover um no x da árvore
+ 7. Remover um no x da árvore
  - O usuário deve fornecer um valor para ser removido da árvore.
     
- 9. Sair
+ 8. Sair
 
 ## ⚙ Como o código funciona
 
