@@ -10,9 +10,8 @@
 - Insere um nó na árvore.
 - Remove um nó da árvore.
 
-  ## 💻 Tecnologia utilizada
-
-  - C: Linguagem de programação principal.
+## 💻 Tecnologia utilizada
+- C: Linguagem de programação principal.
 
 ## 📁 Arquivo com uma árvore AVL
 - Em primeiro lugar, eu recomendo que o arquivo esteja em .txt (não testei em outros formatos). 
