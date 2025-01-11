@@ -3,7 +3,7 @@
 
  ## 🚀 Funcionalidade
 - Realiza a leitura de um arquivo contendo uma árvore fornecido pelo usuario.
-- Imprime a árvore nos formatos: prá-ordem, em-ordem, pós-ordem e em largura.
+- Imprime a árvore nos formatos: pré-ordem, em-ordem, pós-ordem e em largura.
 - Verifica se um elemento existe na árvore.
 - Imprime o nível de um nó.
 - Imprime as folhas menores que um valor x.
